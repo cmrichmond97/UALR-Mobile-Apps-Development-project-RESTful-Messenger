@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">RestfulMessenger</string>
+    <string name="login_button">Login</string>
+    <string name="register_button">Register</string>
+    <string name="submit_button">Submit</string>
+    <string name="logged_in_message">You are currently logged in</string>
+    <string name="user_field_hint">Username</string>
+    <string name="pass_field_hint">Password</string>
+    <string name="confirm_pass_field_hint">Confirm Password</string>
+    <string name="chat_error_message_500">Error 500: channel ID not valid</string>
+    <string name="empty_string"></string>
+    <string name="chat_submit_field_hint">enter a message</string>
+</resources>
